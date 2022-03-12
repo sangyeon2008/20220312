@@ -1,0 +1,72 @@
+# B유형 문제집
+1.
+
+# print("1plus1 = Gwi yo mi")
+# print("1+1 = %d" %(1+1))
+
+
+# 2.
+# x=float(input())
+# y=float(input())
+# print(x*y)
+
+# 3.
+# a=int(input())
+# b=int(input())
+# c=int(input())
+# print(a+b+c)
+# print((a+b+c)//3)
+
+# 4.
+# a=input()
+# b=input()
+# z=int(input())
+# print(b*z+a)
+
+# 5.
+# a=[1,2]
+# b=int(input())
+# a.append(b)
+# a.index(a)
+# print(a)
+
+# 6
+# a=float(input())
+# if a <= 50.8:
+#     print("Flywight")
+# elif    a<=61.23 and a>50.8:
+#     print("Lightweight")
+# elif    a<=72.57 and a>61.23:
+#     print("Middle weight")
+# elif    a<=88.45 and a>72.57:
+#     print("cruiser weight")
+# else:
+#     print("Heavyweight")
+
+# 8.
+# a=int(input())
+# b=int(input())
+# c=int(input())
+# d=int(input())
+# print((a+b+c+d)//4)
+# if    (a+b+c+d)//4 >= 80:
+#     print("pass")
+# else:
+#     print("fail")
+
+# 9.
+# a=int(input("반지름:"))
+#
+# print(a*a*3.14)
+
+# A유형 문제지
+
+# 1.
+# print("5Dan")
+# print("5*2=%d" %(5*2))
+
+# 2.
+# a=int(input())
+# b=int(input())
+# print(a*b)
+# print(a/b)
